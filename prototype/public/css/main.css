@@ -1,0 +1,20 @@
+
+#place-cells {
+  text-transform: lowercase;
+  border-radius: 100px;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  border: solid #bbb 3px;
+  color: #222;
+  width: 110px;
+  padding: 6px;
+  margin: 8px auto;
+  font-weight: bold;
+  text-align: center;
+}
+
+#place-cells:hover {
+  border-color: rgb(105, 155, 205);
+}
+
